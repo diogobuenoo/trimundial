@@ -1,6 +1,6 @@
 {
   "name": "@diogobuenoo/trimundial",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Um console.log divertido e estiloso.",
   "main": "index.js",
   "type": "module",
