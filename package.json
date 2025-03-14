@@ -1,0 +1,29 @@
+{
+  "name": "@diogobuenoo/trimundial",
+  "version": "1.0.0",
+  "description": "Um console.log divertido e estiloso.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogocbueno/trimundial.git"
+  },
+  "keywords": [
+    "console",
+    "trimundial",
+    "divertido"
+  ],
+  "author": "Diogo C Bueno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diogocbueno/trimundial/issues"
+  },
+  "homepage": "https://github.com/diogocbueno/trimundial#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "cool-ascii-faces": "^1.3.4"
+  }
+}
