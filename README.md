@@ -85,7 +85,7 @@ Aqui vai um rosto ASCII divertido:
    code package.json
 2. Certifique-se de que ele está bem formatado: Aqui está um exemplo básico:
    ```Json
-   {
+{
   "name": "@seu-usuario/trimundial",
   "version": "1.0.0",
   "description": "Um console.log estiloso com rostos ASCII.",
@@ -97,7 +97,7 @@ Aqui vai um rosto ASCII divertido:
   },
   "author": "Seu Nome",
   "license": "MIT"
-   }
+}
 
 
 
