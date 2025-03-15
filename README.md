@@ -83,6 +83,7 @@ Aqui vai um rosto ASCII divertido:
    Com o Visual Studio Code:
    ```bash
    code package.json
+   ```
 2. Certifique-se de que ele está bem formatado: Aqui está um exemplo básico:
    ```Json
 {
@@ -97,7 +98,7 @@ Aqui vai um rosto ASCII divertido:
   },
   "author": "Seu Nome",
   "license": "MIT"
-}
+}```
 
 
 
