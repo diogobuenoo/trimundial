@@ -84,7 +84,7 @@ Aqui vai um rosto ASCII divertido:
    ```bash
    code package.json
 2. Certifique-se de que ele está bem formatado: Aqui está um exemplo básico:
-   Json
+   ```Json
    {
   "name": "@seu-usuario/trimundial",
   "version": "1.0.0",
