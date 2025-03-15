@@ -87,7 +87,7 @@ Aqui vai um rosto ASCII divertido:
 2. Certifique-se de que ele está bem formatado: Aqui está um exemplo básico:
    Json
 {
-  "name": "@seu-usuario/trimundial",
+  "name": "@diogobuenoo/trimundial",
   "version": "1.0.0",
   "description": "Um console.log estiloso com rostos ASCII.",
   "main": "index.js",
